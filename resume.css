@@ -1,3 +1,24 @@
-p {
-    color : red ;
+html{
+background-color: antiquewhite;
+
+}
+.imgcap, h1 {
+    color : royalblue ;
+    text-align: center;
+    font-weight: bold;
+    font-size: 45px;
+}
+.profilePic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    ;
+  }
+img {
+    border-radius: 50%;
+    max-width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
