@@ -2,7 +2,7 @@ html{
 background-color: antiquewhite;
 
 }
-.imgcap, h1 {
+.imgcap {
     color : royalblue ;
     text-align: center;
     font-weight: bold;
@@ -21,4 +21,9 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+.Bio-Section{
+    display:flex;
+    font-size: 30px;
+    text-align: center;
 }
